@@ -1,0 +1,14 @@
+src  oaaa  trg  naaa  wht  9
+src  naaa  trg  maaa  wht  6
+src  maaa  trg  laaa  wht  20
+src  laaa  trg  kaaa  wht  13
+src  kaaa  trg  jaaa  wht  8
+src  jaaa  trg  iaaa  wht  9
+src  iaaa  trg  haaa  wht  5
+src  haaa  trg  gaaa  wht  12
+src  gaaa  trg  faaa  wht  5
+src  faaa  trg  eaaa  wht  5
+src  eaaa  trg  daaa  wht  13
+src  daaa  trg  caaa  wht  17
+src  caaa  trg  baaa  wht  12
+src  baaa  trg  aaaa  wht  17
